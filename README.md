@@ -10,3 +10,10 @@
     > O git log podemos ver os commits e os ids vinculados a eles. Isso é importante, pois o utilizaremos em comandos como Reset.
 
 </details>
+
+<details>
+    <summary>2. Como funciona Restore</summary>
+
+    > O git restore é uma precisamos restaurar algum arquivo ou o projeto por completo. O git restore é especificamente para trabalhar com a restauração de arquivos ou projeto ao um ponto anterior
+
+</details>
