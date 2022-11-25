@@ -17,3 +17,10 @@
     > O git restore é uma precisamos restaurar algum arquivo ou o projeto por completo. O git restore é especificamente para trabalhar com a restauração de arquivos ou projeto ao um ponto anterior
 
 </details>
+
+<details>
+    <summary>3. Utilizando o Revert</summary>
+
+    > Reverte é usado para reverter algumas alterações. É um comando como um CTRL+Z para  desfazer as alterações. Desfará o commit especificado. Geralmente, git revert é um commit.
+
+</details>
