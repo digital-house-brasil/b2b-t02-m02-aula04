@@ -24,3 +24,10 @@
     > Reverte é usado para reverter algumas alterações. É um comando como um CTRL+Z para  desfazer as alterações. Desfará o commit especificado. Geralmente, git revert é um commit.
 
 </details>
+
+<details>
+    <summary>4. Utilizando Reset</summary>
+
+    > O git reset é um comando muito importante dentro git e irá nos ajudar a eliminar algumas alterações tanto na área de staged como os commits já realizados.
+
+</details>
