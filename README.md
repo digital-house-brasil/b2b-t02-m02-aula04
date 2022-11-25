@@ -31,3 +31,10 @@
     > O git reset é um comando muito importante dentro git e irá nos ajudar a eliminar algumas alterações tanto na área de staged como os commits já realizados.
 
 </details>
+
+<details>
+    <summary>5. Utilizando o Rebase</summary>
+
+    > No Git, o termo rebase é referido como o processo de mover ou combinar uma sequência de commits para um novo commit base. 
+
+</details>
