@@ -49,7 +49,8 @@
         - Depois realize o push para a branch `develop`
         - Depois criei uma branch chamada `feature/task1` e realize o checkout para ela
         - Adicionar o arquivo `task1.txt` e colocar o seguinte texto `Task 1`
-        - Depois faça o push para a branch `feature/task1`    
+        - Depois faça o push para a branch `feature/task1`  
+        - Adicione o integrante 2 como colaborador
     - Integrante 2: 
         - Realize o clone do repositório
         - Crie uma branch chamada `feature/task2`
